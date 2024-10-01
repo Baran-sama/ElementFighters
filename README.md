@@ -20,3 +20,5 @@ You might want to add some error handling to prevent the game from breaking unde
 Expand Gameplay:
 
 While the characters and moves are varied, adding some additional mechanics like status effects (e.g., stun, heal) or strategic elements (like choosing a defense move) could make the game more engaging.
+
+-- MADE BY BARAN ACIKKAPU ALL RIGHTS RESERVED
