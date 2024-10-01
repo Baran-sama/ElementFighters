@@ -1,0 +1,70 @@
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\obj\Debug\net6.0\ElementFighters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\obj\Debug\net6.0\ElementFighters.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\bin\Debug\net6.0\ElementFighters.exe
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\bin\Debug\net6.0\ElementFighters.deps.json
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\bin\Debug\net6.0\ElementFighters.runtimeconfig.json
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\bin\Debug\net6.0\ElementFighters.dll
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\bin\Debug\net6.0\ElementFighters.pdb
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\obj\Debug\net6.0\ElementFighters.dll
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\obj\Debug\net6.0\refint\ElementFighters.dll
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\obj\Debug\net6.0\ElementFighters.pdb
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\obj\Debug\net6.0\ElementFighters.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BARAN UNİ YAZILIM NOTLARI\OOP 2\ElementFighters\obj\Debug\net6.0\ref\ElementFighters.dll
+C:\Users\Baran\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baran\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfoInputs.cache
+C:\Users\Baran\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfo.cs
+C:\Users\Baran\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.csproj.CoreCompileInputs.cache
+C:\Users\Baran\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.dll
+C:\Users\Baran\Desktop\ElementFighters\obj\Debug\net6.0\refint\ElementFighters.dll
+C:\Users\Baran\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.pdb
+C:\Users\Baran\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.exe
+C:\Users\Baran\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.deps.json
+C:\Users\Baran\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.runtimeconfig.json
+C:\Users\Baran\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.dll
+C:\Users\Baran\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.pdb
+C:\Users\Baran\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.genruntimeconfig.cache
+C:\Users\Baran\Desktop\ElementFighters\obj\Debug\net6.0\ref\ElementFighters.dll
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Debug\net6.0\ElementFighters.exe
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Debug\net6.0\ElementFighters.deps.json
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Debug\net6.0\ElementFighters.runtimeconfig.json
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Debug\net6.0\ElementFighters.dll
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Debug\net6.0\ElementFighters.pdb
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Debug\net6.0\ElementFighters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfoInputs.cache
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfo.cs
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Debug\net6.0\ElementFighters.csproj.CoreCompileInputs.cache
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Debug\net6.0\ElementFighters.dll
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Debug\net6.0\refint\ElementFighters.dll
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Debug\net6.0\ElementFighters.pdb
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Debug\net6.0\ElementFighters.genruntimeconfig.cache
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Debug\net6.0\ref\ElementFighters.dll
+C:\Users\ischrye\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ischrye\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfoInputs.cache
+C:\Users\ischrye\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfo.cs
+C:\Users\ischrye\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.csproj.CoreCompileInputs.cache
+C:\Users\ischrye\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.dll
+C:\Users\ischrye\Desktop\ElementFighters\obj\Debug\net6.0\refint\ElementFighters.dll
+C:\Users\ischrye\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.pdb
+C:\Users\ischrye\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.exe
+C:\Users\ischrye\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.deps.json
+C:\Users\ischrye\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.runtimeconfig.json
+C:\Users\ischrye\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.dll
+C:\Users\ischrye\Desktop\ElementFighters\bin\Debug\net6.0\ElementFighters.pdb
+C:\Users\ischrye\Desktop\ElementFighters\obj\Debug\net6.0\ElementFighters.genruntimeconfig.cache
+C:\Users\ischrye\Desktop\ElementFighters\obj\Debug\net6.0\ref\ElementFighters.dll
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\bin\Debug\net6.0\ElementFighters.exe
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\bin\Debug\net6.0\ElementFighters.deps.json
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\bin\Debug\net6.0\ElementFighters.runtimeconfig.json
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\bin\Debug\net6.0\ElementFighters.dll
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\bin\Debug\net6.0\ElementFighters.pdb
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\obj\Debug\net6.0\ElementFighters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\obj\Debug\net6.0\ElementFighters.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\obj\Debug\net6.0\ElementFighters.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\obj\Debug\net6.0\ElementFighters.dll
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\obj\Debug\net6.0\refint\ElementFighters.dll
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\obj\Debug\net6.0\ElementFighters.pdb
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\obj\Debug\net6.0\ElementFighters.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Baran_Acikkapu\ElementFighters\obj\Debug\net6.0\ref\ElementFighters.dll

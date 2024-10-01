@@ -1,0 +1,14 @@
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Release\net6.0\ElementFighters.exe
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Release\net6.0\ElementFighters.deps.json
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Release\net6.0\ElementFighters.runtimeconfig.json
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Release\net6.0\ElementFighters.dll
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\bin\Release\net6.0\ElementFighters.pdb
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Release\net6.0\ElementFighters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Release\net6.0\ElementFighters.AssemblyInfoInputs.cache
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Release\net6.0\ElementFighters.AssemblyInfo.cs
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Release\net6.0\ElementFighters.csproj.CoreCompileInputs.cache
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Release\net6.0\ElementFighters.dll
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Release\net6.0\refint\ElementFighters.dll
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Release\net6.0\ElementFighters.pdb
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Release\net6.0\ElementFighters.genruntimeconfig.cache
+C:\Users\Baran\Desktop\YAZILIM UYGULAMALARI\projeler\visiual stdio\ElementFighters\obj\Release\net6.0\ref\ElementFighters.dll

@@ -1,0 +1,5 @@
+C:\Users\Baran\Desktop\Baran_Acikkapu\ElementFighters.exe
+C:\Users\Baran\Desktop\Baran_Acikkapu\ElementFighters.dll
+C:\Users\Baran\Desktop\Baran_Acikkapu\ElementFighters.deps.json
+C:\Users\Baran\Desktop\Baran_Acikkapu\ElementFighters.runtimeconfig.json
+C:\Users\Baran\Desktop\Baran_Acikkapu\ElementFighters.pdb
